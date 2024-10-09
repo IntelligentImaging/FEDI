@@ -23,7 +23,7 @@ While **FEDI** is primarily intended for the processing and analysis of fetal an
 - Diffusion MRI Preprocessing
 - Distortion Correction for Diffusion MRI
 - Data Weighting and Outlier Detection
-- Motion Correction for diffusion MRI
+- Motion Correction for Diffusion MRI
 
 ## Installation
 To install the FEDI toolbox, clone the repository and add the necessary paths to your `.bashrc` file:
@@ -50,7 +50,7 @@ Recommended to use Anaconda Python distribution.
 ## Documentation
 The full documentation is available at [FEDI](https://fedi.readthedocs.io)
 
-For additional details, please visit the main repository: https://github.com/FEDIToolbox/FEDI
+For additional details, please visit the [main repository](https://github.com/FEDIToolbox/FEDI)
 
 
 ## Contact
