@@ -12,12 +12,11 @@
 
 
 
-.. note::
+## Note
 
-   **FEDI** is under active development, constantly expanding its functionalities.
+**FEDI** is under active development, constantly expanding its functionalities.
 
-Key Features
-~~~~~~~~~~~~
+## Key Features
 While **FEDI** is primarily intended for the processing and analysis of fetal and neonatal MRI data, some tools can be used for any type of MRI data. In summary, **FEDI** features:
 
 - Multiple Q-Shell Sampling
