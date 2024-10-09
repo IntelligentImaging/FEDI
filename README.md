@@ -35,7 +35,7 @@ pip install fedi
 Additional installation methods will be available soon.
 
 ## Dependencies
-Recommended to use Anaconda Python distribution.
+It is recommended to use the Anaconda Python distribution. The following software packages are required:
 - [DIPY](https://dipy.org/)
 - [CVXPY](http://www.cvxpy.org/)
 - [MRtrix3](https://www.mrtrix.org/)
