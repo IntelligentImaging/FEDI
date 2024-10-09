@@ -24,3 +24,34 @@ While **FEDI** is primarily intended for the processing and analysis of fetal an
 - Distortion Correction for Diffusion MRI
 - Data Weighting and Outlier Detection
 - Motion Correction for diffusion MRI
+
+## Installation
+To install the FEDI toolbox, clone the repository and add the necessary paths to your `.bashrc` file:
+
+
+```bash
+git clone https://github.com/FEDIToolbox/FEDI.git
+cd FEDI/FEDI/scripts
+FEDI_SCRIPTS=$(pwd)
+echo 'export PATH="${FEDI_SCRIPTS}:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+Additional installation methods will be available soon.
+
+## Dependencies
+Recommended to use Anaconda Python distribution.
+- [DIPY](https://dipy.org/)
+- [CVXPY](http://www.cvxpy.org/)
+- [MRtrix3](https://www.mrtrix.org/)
+- [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation)
+- [ANTs](https://github.com/ANTsX/ANTs).
+- Numpy, Scipy, Nibabel, Matplotlib
+
+## Documentation
+The full documentation is available at [FEDI](https://fedi.readthedocs.io)
+
+For additional details, please visit the main repository: https://github.com/FEDIToolbox/FEDI
+
+
+## Contact
+For questions, issues, or suggestions, please open an issue [here](https://github.com/FEDIToolbox/FEDI/issues).
