@@ -1,4 +1,4 @@
-#  Fetal and Neonatal Development Imaging (FEDI) Toolbox
+#  FEDI Toolbox
 
 ![GitHub issues](https://img.shields.io/github/issues/FEDIToolbox/FEDI)
 [![Documentation Status](https://readthedocs.org/projects/fedi/badge/?version=latest)](https://fedi.readthedocs.io/en/latest/)
