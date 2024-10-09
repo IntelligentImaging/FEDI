@@ -26,15 +26,11 @@ While **FEDI** is primarily intended for the processing and analysis of fetal an
 - Motion Correction for Diffusion MRI
 
 ## Installation
-To install the FEDI toolbox, clone the repository and add the necessary paths to your `.bashrc` file:
+To install the FEDI toolbox, open a terminal and type:
 
 
 ```bash
-git clone https://github.com/FEDIToolbox/FEDI.git
-cd FEDI/FEDI/scripts
-FEDI_SCRIPTS=$(pwd)
-echo 'export PATH="${FEDI_SCRIPTS}:$PATH"' >> ~/.bashrc
-source ~/.bashrc
+pip install fedi
 ```
 Additional installation methods will be available soon.
 
