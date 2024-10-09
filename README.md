@@ -40,14 +40,14 @@ Recommended to use Anaconda Python distribution.
 - [CVXPY](http://www.cvxpy.org/)
 - [MRtrix3](https://www.mrtrix.org/)
 - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation)
-- [ANTs](https://github.com/ANTsX/ANTs).
+- [ANTs](https://github.com/ANTsX/ANTs)
 - Numpy, Scipy, Nibabel, Matplotlib
 
 ## Documentation
-The full documentation is available at [FEDI](https://fedi.readthedocs.io)
+The full documentation is available at [FEDI](https://fedi.readthedocs.io).
 
-For additional details, please visit the [main repository](https://github.com/FEDIToolbox/FEDI)
+For additional details, please visit the [main repository](https://github.com/FEDIToolbox/FEDI).
 
 
 ## Contact
-For questions, issues, or suggestions, please open an issue [here](https://github.com/FEDIToolbox/FEDI/issues).
+For questions, issues, or suggestions, please open an [issue](https://github.com/FEDIToolbox/FEDI/issues).
